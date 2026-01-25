@@ -1,21 +1,24 @@
+# ChatGPT-Style Web Application 🤖
+
 A basic ChatGPT-style web application that allows users to interact with an AI through a chat interface.
 
-Features
+## Features
 
-Chat interface similar to ChatGPT
+- Chat interface similar to ChatGPT  
+- User input and AI-generated responses  
+- Conversation history display  
+- Simple and clean UI  
 
-User input and AI-generated responses
+## Tech Stack
 
-Conversation history display
+- **Frontend:** React  
+- **Backend:** Node.js  
+- **AI API:** Groq  
+- **Styling:** Tailwind CSS  
 
-Simple and clean UI
+## Getting Started
 
-Tech Stack
+### Prerequisites
 
-Frontend: React
-
-Backend: Node.js
-
-AI API:Groq
-
-Styling: Tailwind
+- Node.js installed  
+- Groq API key  
