@@ -1,10 +1,10 @@
 import "./App.css";
-
+import ChatApp from "../Components/ChatApp";
 function App() {
   return (
     <>
-      <div>
-        <h1 className="text-3xl font-bold underline">Hello World</h1>
+      <div className="mx-auto max-w-3xl">
+        <ChatApp />
       </div>
     </>
   );
